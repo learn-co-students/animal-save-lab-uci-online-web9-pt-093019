@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+@media (max-width: 1170px) and (min-width: 456px)  { /*406px */
+  #monkey {
+    top: -50px;
+  }
+}
